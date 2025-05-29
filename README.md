@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 25.5.25
 ## Register Number: 212224240184
-## Name: VINOLIA ALAINA . R
+## Name: VINOLIA ALAINA . R.
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
